@@ -16,6 +16,6 @@
   </li>
   <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#team">Team</a>
   </li>
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#contact">Get a Free Consultation</a>
+  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#contact">Recieve a Free Consultation</a>
   </li>
 </ul>
