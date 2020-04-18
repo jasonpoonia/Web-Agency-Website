@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <title>Home | Lucid Media | Digital Agency</title>
-<link rel="canonical" href="https://lucidmedia.co.nz/index.html"/>
+<link rel="canonical" href="https://lucidmedia.co.nz/index.html" />
 <?php include('includes/header.php') ?>
+
 <body id="page-top">
 	<!-- Header -->
 	<header class="masthead">
@@ -10,10 +11,10 @@
 			<div class="intro-text">
 				<div class="intro-lead-in animated animatedFadeInUp fadeInUp">Welcome to Lucid Media!</div>
 				<div class="intro-heading animated animatedFadeInUp fadeInUp">
-				<a href="" style="text-decoration:none;font-size:50px;" class="typewrite" data-period="2000" data-type='[ "Lets take your business online!", "We create simple & unique solutions.", "Contact us for a free consultation!"]'>
-		  	<span class="wrap"></span>
-		  	</a>
-		  	</div>
+					<a href="" style="text-decoration:none;font-size:50px;" class="typewrite" data-period="2000" data-type='[ "Lets take your business online!", "We create simple & unique solutions.", "Contact us for a free consultation!"]'>
+						<span class="wrap"></span>
+					</a>
+				</div>
 				<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger animated animatedFadeInUp fadeInUp" href="#services">Go Digital</a>
 			</div>
 		</div>
@@ -24,30 +25,30 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2 class="section-heading text-uppercase">Services</h2>
-					<h3 class="section-subheading text-muted">At Lucid Media, we are regularly innovating our services to provide our customers with support in helping get their business online.</h3>
+					<h3 class="section-subheading">At Lucid Media, we are regularly innovating our services to provide our customers with support in helping get their business online.</h3>
 				</div>
 			</div>
 			<div class="row text-center">
 				<div class="col-md-4"> <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
-          </span>
+						<a href="store.php"><i class="fas fa-circle fa-stack-2x text-primary"></i>
+							<i class="fas fa-laptop fa-stack-1x fa-inverse"></i></a>
+					</span>
 					<h4 class="service-heading">Web Design</h4>
-					<p class="text-muted">We design & develop websites for all kinds of clients. We produce websites for all kinds of purposes, varying from e-commerce to inventory management to even portfolios.</p>
+					<p class="">We design & develop websites for all kinds of clients. We produce websites for all kinds of purposes, varying from e-commerce to inventory management to even portfolios.</p>
 				</div>
 				<div class="col-md-4"> <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
-          </span>
+						<a href="store.php"> <i class="fas fa-circle fa-stack-2x text-primary"></i>
+							<i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i></a>
+					</span>
 					<h4 class="service-heading">Digital Marketing</h4>
-					<p class="text-muted">Digital marketing can provide an extremely cost-effective way to reach your potential customers and achieve results you desire. Contact us for a free consultation!</p>
+					<p class="">Digital marketing can provide an extremely cost-effective way to reach your potential customers and achieve results you desire. Contact us for a free consultation!</p>
 				</div>
 				<div class="col-md-4"> <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-          </span>
+						<a href="store.php"> <i class="fas fa-circle fa-stack-2x text-primary"></i>
+							<i class="fas fa-wrench fa-stack-1x fa-inverse"></i></a>
+					</span>
 					<h4 class="service-heading">SEO Solution</h4>
-					<p class="text-muted">Our SEO team will ensure your website appears when customers are searching for your business. SEO is one of the greatest tools for businesses to gain organic traffic.</p>
+					<p class="">Our SEO team will ensure your website appears when customers are searching for your business. SEO is one of the greatest tools for businesses to gain organic traffic.</p>
 				</div>
 			</div>
 		</div>
@@ -58,7 +59,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2 class="section-heading text-uppercase">Portfolio</h2>
-					<h3 class="section-subheading text-muted">Browse our previous work.</h3>
+					<h3 class="section-subheading">Browse our previous work & their reaction to our work!</h3>
 				</div>
 			</div>
 			<div class="row">
@@ -143,7 +144,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2 class="section-heading text-uppercase">About</h2>
-					<h3 class="section-subheading text-muted">Learn more about Lucid Media & our journey.</h3>
+					<h3 class="section-subheading">Learn more about Lucid Media & our journey.</h3>
 				</div>
 			</div>
 			<div class="row">
@@ -159,7 +160,7 @@
 									<h4 class="subheading">Our Humble Beginnings</h4>
 								</div>
 								<div class="timeline-body">
-									<p class="text-muted">In late 2018, the idea of Lucid Media was born. The idea was to provide businesses around New Zealand with an alternative option when trying to take their business online.</p>
+									<p class="">In late 2018, the idea of Lucid Media was born. The idea was to provide businesses around New Zealand with an alternative option when trying to take their business online.</p>
 								</div>
 							</div>
 						</li>
@@ -173,7 +174,8 @@
 									<h4 class="subheading">Why "Lucid Media"? </h4>
 								</div>
 								<div class="timeline-body">
-									<p class="text-muted">Lucid means "expressed clearly; easy to understand.", hence Lucid Media was established as being the official name. We think Lucid is appropriate as we offer our customers with easy & efficient solutions in helping them go digital.</p>
+									<p class="">Lucid means "expressed clearly; easy to understand.", hence Lucid Media was established as being the official name. We think Lucid is appropriate as we offer our customers with easy & efficient solutions in
+										helping them go digital.</p>
 								</div>
 							</div>
 						</li>
@@ -194,8 +196,8 @@
 						<li class="timeline-inverted">
 							<div class="timeline-image">
 								<h4>Be Part
-                  <br>Of Our
-                  <br>Story!</h4>
+									<br>Of Our
+									<br>Story!</h4>
 							</div>
 						</li>
 					</ul>
@@ -219,11 +221,11 @@
 						<p class="text-muted">Founder/Lead Developer</p>
 						<ul class="list-inline social-buttons">
 							<li class="list-inline-item">
-								<a href="#"> <i class="fab fa-facebook-f"></i>
+								<a href="https://www.linkedin.com/in/jason-singh-6450371a5/"> <i class="fab fa-linkedin-in"></i>
 								</a>
 							</li>
 							<li class="list-inline-item">
-								<a href="#"> <i class="fab fa-instagram"></i>
+								<a href="https://www.instagram.com/jasonn.singh/"> <i class="fab fa-instagram"></i>
 								</a>
 							</li>
 						</ul>
@@ -232,85 +234,16 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-8 mx-auto text-center">
-					<p class="large text-muted">I am a web designer/developer, entrepreneur, and programmer. I love to help individuals create their businesses by providing them with an exceptional website that allows them to excel in their chosen industry. I also provide guidance using the many years of experience I've gathered from working with individuals from different fields.</p>
+					<p class="large">I am a web designer/developer, entrepreneur, and programmer. I love to help individuals create their businesses by providing them with an exceptional website that allows them to excel in their chosen industry. I
+						also provide guidance using the many years of experience I've gathered from working with individuals from different fields.</p>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- Clients
-  <section class="py-5">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="img/logos/envato.jpg" alt="">
-          </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="img/logos/designmodo.jpg" alt="">
-          </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="img/logos/themeforest.jpg" alt="">
-          </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="img/logos/creative-market.jpg" alt="">
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
--->
 	<!-- Contact -->
-	<section class="page-section" id="contact">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Contact Us</h2>
-          <h3 style="color:white;" class="section-subheading">Recieve a free consultation today & recieve unique solutions catered to your needs!</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <form id="contactForm" name="sentMessage" novalidate="novalidate">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
-                  <p class="help-block text-danger"></p>
-                </div>
-                <div class="form-group">
-                  <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
-                  <p class="help-block text-danger"></p>
-                </div>
-                <div class="form-group">
-                  <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
-                  <p class="help-block text-danger"></p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
-                  <p class="help-block text-danger"></p>
-                </div>
-              </div>
-              <div class="clearfix"></div>
-              <div class="col-lg-12 text-center">
-                <div id="success"></div>
-                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
+	<?php include('includes/contact.php') ?>
 	<!-- Footer -->
-<?php include('includes/footer.php') ?>
+	<?php include('includes/footer.php') ?>
 	<!-- Portfolio Modals -->
 	<!-- Modal 1 -->
 	<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
@@ -452,7 +385,8 @@
 								<!-- Project Details Go Here -->
 								<h2 class="text-uppercase">Central de Productos</h2>
 								<img class="img-fluid d-block mx-auto" src="img/portfolio/5.png" alt="">
-								<p>We needed a simple solution to our problem, we were in need of a website that could represent our store accurately, thankfully Lucid Media helped us through the difficult journey or setting up an online business with ease and clarity.</p>
+								<p>We needed a simple solution to our problem, we were in need of a website that could represent our store accurately, thankfully Lucid Media helped us through the difficult journey or setting up an online business with ease and
+									clarity.</p>
 								<ul class="list-inline">
 									<li>Date: 07 October 2019</li>
 									<li>Client: giorgiomidani</li>
@@ -498,64 +432,6 @@
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript">
-	var TxtType = function(el, toRotate, period) {
-			this.toRotate = toRotate;
-			this.el = el;
-			this.loopNum = 0;
-			this.period = parseInt(period, 10) || 2000;
-			this.txt = '';
-			this.tick();
-			this.isDeleting = false;
-	};
-
-	TxtType.prototype.tick = function() {
-			var i = this.loopNum % this.toRotate.length;
-			var fullTxt = this.toRotate[i];
-
-			if (this.isDeleting) {
-			this.txt = fullTxt.substring(0, this.txt.length - 1);
-			} else {
-			this.txt = fullTxt.substring(0, this.txt.length + 1);
-			}
-
-			this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
-
-			var that = this;
-			var delta = 200 - Math.random() * 100;
-
-			if (this.isDeleting) { delta /= 2; }
-
-			if (!this.isDeleting && this.txt === fullTxt) {
-			delta = this.period;
-			this.isDeleting = true;
-			} else if (this.isDeleting && this.txt === '') {
-			this.isDeleting = false;
-			this.loopNum++;
-			delta = 500;
-			}
-
-			setTimeout(function() {
-			that.tick();
-			}, delta);
-	};
-
-	window.onload = function() {
-			var elements = document.getElementsByClassName('typewrite');
-			for (var i=0; i<elements.length; i++) {
-					var toRotate = elements[i].getAttribute('data-type');
-					var period = elements[i].getAttribute('data-period');
-					if (toRotate) {
-						new TxtType(elements[i], JSON.parse(toRotate), period);
-					}
-			}
-			// INJECT CSS
-			var css = document.createElement("style");
-			css.type = "text/css";
-			css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
-			document.body.appendChild(css);
-	};
-	</script>
 	<!-- Bootstrap core JavaScript -->
 	<script src="vendor/jquery/jquery.min.js"></script>
 	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

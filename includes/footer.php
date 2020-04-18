@@ -17,9 +17,9 @@
       </div>
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
-          <li class="list-inline-item"> <a href="policy.html">Privacy Policy</a>
+          <li class="list-inline-item"> <a style="color:black" href="policy.html">Privacy Policy</a>
           </li>
-          <li class="list-inline-item"> <a href="policy.html">Terms of Use</a>
+          <li class="list-inline-item"> <a style="color:black" href="policy.html">Terms of Use</a>
           </li>
         </ul>
       </div>
