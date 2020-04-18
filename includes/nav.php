@@ -16,6 +16,6 @@
       <a class="dropdown-item nav-link" style="color:white;background:#212529;" href="store.php#seo">SEARCH ENGINE OPTIMISATION</a>
     </div>
   </li>
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#contact">Recieve a Free Consultation</a>
+  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#contact">GET A FREE CONSULTATION</a>
   </li>
 </ul>
