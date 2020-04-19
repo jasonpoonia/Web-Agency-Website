@@ -3,7 +3,6 @@
 <title>Home | Lucid Media | Digital Agency</title>
 <link rel="canonical" href="https://lucidmedia.co.nz/index.html" />
 <?php include('includes/header.php') ?>
-
 <body id="page-top">
 	<!-- Header -->
 	<header class="masthead">
