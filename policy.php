@@ -1,152 +1,230 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta charset="UTF-8">
-  <meta name="description" content="Free Web tutorials">
-  <meta name="keywords" content="Lucid, Media, Limited, New, Zealand, Auckland, Digital, Agency, Website, Development, SEO, Social, Media, Marketing, Freelance, Developers, digital marketing agency, digital agency, digital agencies, top digital angencies">
-  <meta name="author" content="Lucid Media">
-	<meta itemprop="image" content="assets/icons/favicon.png">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<link rel="shortcut icon" href="assets/icons/favicon.png" type="image/png">
-	<link rel="icon" href="img/logos/favicon.png" type="image/png">
-	<title>Policies | Lucid Media | Digital Agency</title>
-	<!-- Bootstrap core CSS -->
-	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	<!-- Custom fonts for this template -->
-	<link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-	<link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-	<!-- Custom styles for this template -->
-	<link href="css/agency.min.css" rel="stylesheet">
-</head>
+<title>Privacy Policy & Terms of Use | Lucid Media | Digital Agency | New Zealand</title>
+<link rel="canonical" href="https://lucidmedia.co.nz/index.html" />
+<?php include('includes/header.php') ?>
+<style>
+  .parallax {
+    /* The image used */
+    background-image: url("img/header-bg.jpg");
+
+    /* Set a specific height */
+    height: 125px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  @media only screen and (max-device-width: 1366px) {
+    .parallax {
+      background-attachment: scroll;
+    }
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
 
 <body id="page-top">
-
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Lucid Media</a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        Menu
-        <i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav text-uppercase ml-auto">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="index.html#services">Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="index.html#portfolio">Portfolio</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              STORE
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item nav-link" style="color:black" href="#">WEB DESIGN</a>
-              <a class="dropdown-item nav-link" style="color:black" href="#">DIGITAL MARKETING</a>
-              <a class="dropdown-item nav-link" style="color:black" href="#">SEARCH ENGINE OPTIMISATION</a>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#team">Team</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-
-  <!-- Header -->
-  <header class="masthead">
-    <div class="container">
-      <div class="intro-text">
-        <div class="intro-lead-in">Welcome to Lucid Media!</div>
-        <div class="intro-heading text-uppercase">Take your business online</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Go Digital</a>
-      </div>
-    </div>
-  </header>
-
-  <!-- Services -->
-  <section class="page-section" id="services">
+  <div class="parallax"></div>
+  <!-- Web Design -->
+  <section class="page-section" id="webdesign">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Services</h2>
-          <h3 class="section-subheading text-muted">At Lucid Media, we are regularly innovating our services to provide our customers with support in helping get their business online.</h3>
+          <h2 class="section-heading text-uppercase">Web Design</h2>
+          <p class="">Lucid Media offers website solutions, we design and develop websites using many different platforms ranging from Wix, Wordpress, Shopify & coded from scratch. We can provide our clients with solutions no matter their
+            requirements. Contact us to get an exact quote for a personalised solution for your situation.</h3>
+            <br>
         </div>
       </div>
-      <div class="row text-center">
-        <div class="col-md-6">
-          <h4 class="service-heading">Privacy Policy</h4>
-          <p class="text-muted">...</p>
+      <br>
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h4 class="featurette-heading">Platforms: <span class="text-muted">Wix, Shopify, Wordpress & Squarespace</span></h4>
+          <p>Lucid Media offers web design & development on many different platforms. We can give you recommendations depending on a variety of factors, such as Cost, Usage, & Scalability, Customizability. Depending on the following
+            factors our web developers will provide you with an accurate recommendation on which platform we develop your site on.</p>
         </div>
-        <div class="col-md-6">
-          <h4 class="service-heading">Terms of Use</h4>
-          <p class="text-muted">...</p>
+        <div class="col-md-5">
+          <img src="img/about/6.png" width="500" height="500" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
+        </div>
+      </div>
+      <hr class="featurette-divider">
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img src="img/about/5.jpg" width="500" height="500" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Custom: <span class="text-muted">Developed from scratch</span></h2>
+          <p>If platforms such as Wix, Shopify, Wordpress & Squarespace are not sufficient at meeting your specifications, our developers can provide you with a solution, which is to design & develop your website from scratch. This would
+            mean our developers would plan out your website and code it using HTML, CSS, PHP & Javascript. By developing a website from scratch it means you have control over how the website turns out from the colours, layout & content.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Footer -->
-  <footer class="footer">
+  <!-- Marketing -->
+  <section class="page-section bg-light" id="marketing">
     <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-4">
-          <span class="copyright">Copyright &copy; Lucid Media 2020</span>
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Digital Marketing</h2>
+          <p>Lucid Media offers website solutions, we design and develop websites using many different platforms ranging from Wix, Wordpress, Shopify & coded from scratch. We can provide our clients with solutions no matter their
+            requirements. Contact us to get an exact quote for a personalised solution for your situation.</p>
+          <br>
+          <h4 class="section-heading text-uppercase">Standard Plans</h4>
         </div>
-        <div class="col-md-4">
-          <ul class="list-inline social-buttons">
-            <li class="list-inline-item">
-              <a href="https://www.instagram.com/lucidmedianz/">
-                <i class="fab fa-instagram"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-            </li>
-          </ul>
+      </div>
+
+      <div class="container">
+
+        <div class="card-deck mb-3 text-center">
+          <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Standard</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$19 <small class="text-muted">/ week</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>Instagram & Facebook</li>
+                <li>4 Posts Weekly</li>
+                <li>Hashtag Analysis</li>
+                <li>Ad Campaigns</li>
+                <br>
+              </ul>
+              <a href="#contact"> <button type="button" class="btn btn-lg btn-block btn-primary">Contact Us</button></a>
+            </div>
+          </div>
+          <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Advanced</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$39 <small class="text-muted">/ week</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>Instagram & Facebook</li>
+                <li>5 Posts Weekly</li>
+                <li>Hashtag Analysis</li>
+                <li>Ad Campaigns</li>
+                <li>Content Creation</li>
+                <br>
+              </ul>
+              <a href="#contact"> <button type="button" class="btn btn-lg btn-block btn-primary">Contact Us</button></a>
+            </div>
+          </div>
+          <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Enterprise</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$59 <small class="text-muted">/ week</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>Instagram & Facebook</li>
+                <li>7 Posts Weekly</li>
+                <li>Hashtag Analysis</li>
+                <li>Ad Campaigns</li>
+                <li>Content Creation</li>
+              </ul>
+              <a href="#contact"> <button type="button" class="btn btn-lg btn-block btn-primary">Contact Us</button></a>
+            </div>
+          </div>
         </div>
-        <div class="col-md-4">
-          <ul class="list-inline quicklinks">
-            <li class="list-inline-item">
-              <a href="policy.html">Privacy Policy</a>
-            </li>
-            <li class="list-inline-item">
-              <a href="policy.html">Terms of Use</a>
-            </li>
-          </ul>
+      </div>
+  </section>
+  <!-- SEO -->
+  <section class="page-section" id="seo">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">SEO</h2>
+          <p class="">Lucid Media offers website solutions, we design and develop websites using many different platforms ranging from Wix, Wordpress, Shopify & coded from scratch. We can provide our clients with solutions no matter their
+            requirements. Contact us to get an exact quote for a personalised solution for your situation.</h3>
+            <br>
+        </div>
+      </div>
+      <br>
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h4 class="featurette-heading">Packages: <span class="text-muted">Basic, Advanced, Enterprise</span></h4>
+          <p>Lucid Media offers different levels of SEO packages. Basic package provides your website with general optimisation of pages and keywords to ensure your website is appearing in search engine results. Advanced packages would provide
+            everything in Basic, more in-depth keyword research and sitemap creation. Enterprise package would include everything in advanced, Google Search Console, Google Business Setup & more depending on business type.</p>
+        </div>
+        <div class="col-md-5">
+          <img src="img/about/6.png" width="500" height="500" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
         </div>
       </div>
     </div>
-  </footer>
-
+    <br>
+    <div class="container">
+      <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 shadow-sm">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Standard</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$59 <small class="text-muted"></small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Page Title Optimised</li>
+              <li>Page Description/Keywords</li>
+              <li>Canonical Url</li>
+              <li> </li>
+              <br>
+            </ul>
+            <a href="#contact"> <button type="button" class="btn btn-lg btn-block btn-primary">Contact Us</button></a>
+          </div>
+        </div>
+        <div class="card mb-4 shadow-sm">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Advanced</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$99 <small class="text-muted"></small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Everything in Basic</li>
+              <li>In-depth Keyword Research</li>
+              <li>Sitemap Creation</li>
+              <li></li>
+              <br>
+            </ul>
+            <a href="#contact"> <button type="button" class="btn btn-lg btn-block btn-primary">Contact Us</button></a>
+          </div>
+        </div>
+        <div class="card mb-4 shadow-sm">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Enterprise</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$139 <small class="text-muted"></small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Everything in Advanced</li>
+              <li>Google Search Console</li>
+              <li>Google Business Setup</li>
+              <li>Google Adwords Campaign</li>
+            </ul>
+            <a href="#contact"> <button type="button" class="btn btn-lg btn-block btn-primary">Contact Us</button></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Contact -->
+  <?php include('includes/contact.php') ?>
+  <!-- Footer -->
+  <?php include('includes/footer.php') ?>
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
   <!-- Plugin JavaScript -->
   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
   <!-- Contact form JavaScript -->
   <script src="js/jqBootstrapValidation.js"></script>
   <script src="js/contact_me.js"></script>
-
   <!-- Custom scripts for this template -->
   <script src="js/agency.min.js"></script>
-
 </body>
 
 </html>

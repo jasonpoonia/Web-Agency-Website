@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Home | Lucid Media | Digital Agency</title>
+<title>Lucid Media | Digital Agency | New Zealand</title>
 <link rel="canonical" href="https://lucidmedia.co.nz/index.html" />
 <?php include('includes/header.php') ?>
 <body id="page-top">
@@ -40,7 +40,7 @@
 							<i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i></a>
 					</span>
 					<h4 class="service-heading">Digital Marketing</h4>
-					<p class="">Digital marketing can provide an extremely cost-effective way to reach your potential customers and achieve results you desire. Contact us for a free consultation!</p>
+					<p class="">Digital marketing can provide an extremely cost-effective way to reach your potential customers and achieve the results you desire. Contact us for a free consultation!</p>
 				</div>
 				<div class="col-md-4"> <span class="fa-stack fa-4x">
 						<a href="store.php"> <i class="fas fa-circle fa-stack-2x text-primary"></i>

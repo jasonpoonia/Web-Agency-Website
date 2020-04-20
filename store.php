@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Store | Lucid Media | Digital Agency</title>
+<title>Store | Lucid Media | Digital Agency | New Zealand</title>
 <link rel="canonical" href="https://lucidmedia.co.nz/index.html" />
 <?php include('includes/header.php') ?>
 <style>
