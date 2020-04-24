@@ -1,21 +1,16 @@
-<ul class="navbar-nav text-uppercase ml-auto">
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="index.php#services">Services</a>
-  </li>
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="index.php#portfolio">Portfolio</a>
-  </li>
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="index.php#about">About</a>
-  </li>
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="index.php#team">Team</a>
-  </li>
-  <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="store.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      STORE
-    </a>
-    <div style="background-color:#212529;" class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-      <a class="dropdown-item nav-link" style="color:white;background:#212529;" href="store.php#webdesign">WEB DESIGN</a>
-      <a class="dropdown-item nav-link" style="color:white;background:#212529;" href="store.php#marketing">DIGITAL MARKETING</a>
-      <a class="dropdown-item nav-link" style="color:white;background:#212529;" href="store.php#seo">SEARCH ENGINE OPTIMISATION</a>
-    </div>
-  </li>
-  <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#contact">GET A FREE CONSULTATION</a>
-  </li>
-</ul>
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="index.php#page-top">Lucid Media</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-uppercase ml-auto">
+                    <?php 
+                    include("includes/navitems.php")
+                    ?>
+                </ul>
+            </div>
+        </div>
+    </nav>
