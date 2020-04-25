@@ -13,9 +13,9 @@
         <div class="col-6 col-md">
             <h5>Profile</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="store.php#webdesign">Login</a></li>
-              <li><a class="text-muted" href="store.php#marketing">Register</a></li>
-              <li><a class="text-muted" href="">Profile</a></li>
+              <li><a class="text-muted" href="login.php">Login</a></li>
+              <li><a class="text-muted" href="register.php">Register</a></li>
+              <li><a class="text-muted" href="profile.php">Profile</a></li>
             </ul>
         </div>
         <div class="col-6 col-md">

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Allow: /
+Allow: /index.php
+Allow: /store.php
+Disallow: /login.php
+Disallow: /register.php
+
+Sitemap: https://www.lucidmedia.co.nz/sitemap.xml

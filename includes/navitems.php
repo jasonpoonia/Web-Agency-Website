@@ -24,3 +24,6 @@
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#contact">Get A Free Consultation</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="login.php">Login | Sign Up</a>
+                    </li>

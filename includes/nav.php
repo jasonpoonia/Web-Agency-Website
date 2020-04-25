@@ -7,7 +7,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ml-auto">
-                    <?php 
+                    <?php
                     include("includes/navitems.php")
                     ?>
                 </ul>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-<title>Store | Lucid Media | Digital Agency | New Zealand</title>
+<html lang="en-nz">
+<title>Pricing | Lucid Media | Digital Agency | New Zealand</title>
 <link rel="canonical" href="https://lucidmedia.co.nz/store.php" />
 
 <head>
@@ -82,7 +82,6 @@
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                 data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
                 aria-label="Toggle navigation">
-                Menu
                 <i class="fas fa-bars"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -94,7 +93,7 @@
             </div>
         </div>
     </nav>
-    <div style="padding-top:30px"></div>
+    <div style="padding-top:60px"></div>
     <!-- Services -->
     <!-- Web Design -->
     <section class="page-section" id="webdesign">
@@ -119,7 +118,7 @@
                         develop your site on.</p>
                 </div>
                 <div class="col-md-5">
-                    <img src="img/about/6.png" width="400" height="400"
+                    <img src="img/about/6.jpeg" width="400" height="400"
                         class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
                 </div>
             </div>
@@ -249,7 +248,7 @@
             <hr class="featurette-divider">
             <div class="row featurette">
             <div class="col-md-5">
-                    <img src="img/about/7.png" width="400" height="400"
+                    <img src="img/about/7.jpeg" width="400" height="400"
                         class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
                 </div>
                 <div class="col-md-7">
@@ -343,7 +342,7 @@
                     <p>SEO (Search Engine Optimisation) is an essential part of any website, especially if you are running a business. Ensuring your website is optimised for Search Engines such as Google and Bing will guarantee that you show up infront of your customers verses your competitors. Being on the First page of Google is essential for getting traffic and converting those vistors in to customers. If you need an engaing website that will help convert visitors into customers visit our Web Design section and select a plan that suits your needs. No point having an ecommerce website unless its easily found by your shoppers.</p>
                 </div>
                 <div class="col-md-5">
-                    <img src="img/about/6.png" width="500" height="500"
+                    <img src="img/about/8.jpg" width="500" height="500"
                         class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" />
                 </div>
             </div>
@@ -362,12 +361,12 @@
                     <div class="card mb-5 mb-lg-0">
                         <div class="card-body">
                             <h5 class="card-title text-muted text-uppercase text-center">Standard</h5>
-                            <h6 class="card-price text-center">$59<span class="period">/week</span></h6>
+                            <h6 class="card-price text-center">From $59<span class="period">+GST</span></h6>
                             <hr>
                             <ul class="fa-ul">
                                 <li><span class="fa-li"><i class="fas fa-check"></i></span>Page Title Optimised</li>
                                 <li><span class="fa-li"><i class="fas fa-check"></i></span>Page Description/Keywords</li>
-                                <li><span class="fa-li"><i class="fas fa-check"></i></span>Canonical Url</li>
+                                <li><span class="fa-li"><i class="fas fa-check"></i></span>Canonical URL</li>
                                 <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>In-depth Keyword Research</li>
                                 <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Sitemap Creation</li>
                                 <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Google Search Console</li>
@@ -383,12 +382,12 @@
                     <div class="card mb-5 mb-lg-0">
                         <div class="card-body">
                             <h5 class="card-title text-muted text-uppercase text-center">Advanced</h5>
-                            <h6 class="card-price text-center">$99<span class="period">/week</span></h6>
+                            <h6 class="card-price text-center">From $99<span class="period">+GST</span></h6>
                             <hr>
                             <ul class="fa-ul">
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Page Title Optimised</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Page Description/Keywords</li>
-                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Canonical Url</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Canonical URL</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>In-depth Keyword Research</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Sitemap Creation</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Google Search Console</li>
@@ -404,12 +403,12 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title text-muted text-uppercase text-center">Enterprise</h5>
-                            <h6 class="card-price text-center">$139<span class="period">/week</span></h6>
+                            <h6 class="card-price text-center">From $139<span class="period">+GST</span></h6>
                             <hr>
                             <ul class="fa-ul">
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Page Title Optimised</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Page Description/Keywords</li>
-                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Canonical Url</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Canonical URL</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>In-depth Keyword Research</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Sitemap Creation</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Google Search Console</li>

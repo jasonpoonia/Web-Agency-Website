@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-nz">
 <title>Lucid Media | Digital Agency | New Zealand</title>
 <link rel="canonical" href="https://lucidmedia.co.nz/index.php" />
 
@@ -21,7 +21,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome to Lucid Media!</div>
-                <div class="intro-heading text-uppercase">Time to go Digital</div>
+                <h1 class="intro-heading text-uppercase">Leading Digital Agency</h1>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Go Digital</a>
             </div>
         </div>
@@ -85,7 +85,7 @@
                             <div class="portfolio-hover-content"> <i class="fas fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="img/portfolio/1.png" alt="">
+                        <img class="img-fluid" loading="lazy" src="img/portfolio/1.jpeg" alt="The Little Gallery of San Bernardino Website Screenshot">
                     </a>
                     <div class="portfolio-caption">
                         <p>The Little Gallery of San Bernardino</p>
@@ -97,7 +97,7 @@
                             <div class="portfolio-hover-content"> <i class="fas fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="img/portfolio/2.png" alt="">
+                        <img class="img-fluid" loading="lazy" src="img/portfolio/2.jpeg" alt="Immortal Fate Website Screenshot">
                     </a>
                     <div class="portfolio-caption">
                         <p>Immortal Fate</p>
@@ -109,7 +109,7 @@
                             <div class="portfolio-hover-content"> <i class="fas fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="img/portfolio/3.png" alt="">
+                        <img class="img-fluid" loading="lazy" src="img/portfolio/3.jpeg" alt="Love Exposure Website Screenshot">
                     </a>
                     <div class="portfolio-caption">
                         <p>Love Exposure</p>
@@ -121,7 +121,7 @@
                             <div class="portfolio-hover-content"> <i class="fas fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="img/portfolio/6.png" alt="">
+                        <img class="img-fluid" loading="lazy" src="img/portfolio/6.jpeg" alt="The Funny Baby Website Screenshot">
                     </a>
                     <div class="portfolio-caption">
                         <p>The Funny Baby</p>
@@ -133,7 +133,7 @@
                             <div class="portfolio-hover-content"> <i class="fas fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="img/portfolio/7.png" alt="">
+                        <img class="img-fluid" loading="lazy" src="img/portfolio/7.jpeg" alt="Central de Productos Website Screenshot">
                     </a>
                     <div class="portfolio-caption">
                         <p>Central de Productos</p>
@@ -145,7 +145,7 @@
                             <div class="portfolio-hover-content"> <i class="fas fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="img/portfolio/8.png" alt="">
+                        <img class="img-fluid" loading="lazy" src="img/portfolio/8.jpeg" alt="Electric Motorbikes Website Screenshot">
                     </a>
                     <div class="portfolio-caption">
                         <p>Electric Motorbikes</p>
@@ -169,7 +169,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                                <img class="rounded-circle img-fluid" loading="lazy" src="img/about/1.jpg" alt="2018-2019 Our Humble Beginnings">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -185,7 +185,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+                                <img class="rounded-circle img-fluid" loading="lazy" src="img/about/2.jpg" alt="March 2020 Why 'Lucid Media'?">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -202,7 +202,7 @@
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                                <img class="rounded-circle img-fluid" loading="lazy" src="img/about/3.jpg" alt="April 2020 Transition to Full Service">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -240,7 +240,7 @@
             <div class="row justify-content-center">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+                        <img class="mx-auto rounded-circle" loading="lazy" src="img/team/1.jpg" alt="Photo of Jason Singh">
                         <h4>Jason Poonia</h4>
                         <p class="text-muted">Founder/Lead Developer</p>
                         <ul class="list-inline social-buttons">
@@ -275,22 +275,22 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <a href="https://www.immortal-fate.com/">
-                        <img width="100" height="100" class="img-fluid d-block mx-auto" src="img/logos/immortalfatelogo.jpg" alt="Immortal Fate is one of our clients that works in the Clothing and Streetwear industry.">
+                        <img width="100" height="100" loading="lazy" class="img-fluid d-block mx-auto" src="img/logos/immortalfatelogo.jpg" alt="Immortal Fate is one of our clients that works in the Clothing and Streetwear industry.">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="http://loveexposure.com/">
-                        <img width="100" height="100" class="img-fluid d-block mx-auto" src="img/logos/lelogo.jpg" alt="Love Exposure is one of our clients that works in the Food and Hospitality industry.">
+                        <img width="100" height="100" loading="lazy" class="img-fluid d-block mx-auto" src="img/logos/lelogo.jpg" alt="Love Exposure is one of our clients that works in the Food and Hospitality industry.">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="https://www.tsbliving.co.nz/">
-                        <img width="100" height="100" class="img-fluid d-block mx-auto" src="img/logos/tsblogo.jpg" alt="TSB Living is one of our clients that work in the furtniture and decoration industry.">
+                        <img width="100" height="100" loading="lazy" class="img-fluid d-block mx-auto" src="img/logos/tsblogo.jpg" alt="TSB Living is one of our clients that work in the furtniture and decoration industry.">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="https://www.tripleprotection.com.au/">
-                        <img width="100" height="100" class="img-fluid d-block mx-auto" src="img/logos/triplelogo.jpg" alt="Triple Protection is one of our clients that work in the PPE industry.">
+                        <img width="100" height="100" loading="lazy" class="img-fluid d-block mx-auto" src="img/logos/triplelogo.jpg" alt="Triple Protection is one of our clients that work in the PPE industry.">
                     </a>
                 </div>
             </div>
@@ -322,20 +322,15 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">The Little Gallery of San Bernardino</h2>
+                                <img class="img-fluid d-block mx-auto" src="img/portfolio/1.jpeg" alt="">
+                                <p>They were responsive and completed the task quickly and explained every step of the process. I would definitely recommend.</p>
                                 <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Threads</li>
-                                    <li>Category: Illustration</li>
+                                    <li>Date: 05 October 2019</li>
+                                    <li>Client: littlegallerysb</li>
+                                    <li>Category: E-Commerce</li>
                                 </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fas fa-times"></i>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"> <i class="fas fa-times"></i>
                                     Close Project</button>
                             </div>
                         </div>
@@ -344,7 +339,6 @@
             </div>
         </div>
     </div>
-
     <!-- Modal 2 -->
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -359,20 +353,15 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Immortal Fate</h2>
+                                <img class="img-fluid d-block mx-auto" src="img/portfolio/2.jpeg" alt="">
+                                <p>Lucid Media provided me with exactly what I needed to help get my business running. We saw the difference their service made in our traffic and sales. Would highly recommend for anyone trying to establish a business online.</p>
                                 <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Explore</li>
-                                    <li>Category: Graphic Design</li>
+                                    <li>Date: February 2018</li>
+                                    <li>Client: Ronit Passi</li>
+                                    <li>Category: E-Commerce</li>
                                 </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fas fa-times"></i>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"> <i class="fas fa-times"></i>
                                     Close Project</button>
                             </div>
                         </div>
@@ -381,7 +370,6 @@
             </div>
         </div>
     </div>
-
     <!-- Modal 3 -->
     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -396,20 +384,15 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Love Exposure</h2>
+                                <img class="img-fluid d-block mx-auto" src="img/portfolio/3.jpeg" alt="">
+                                <p>We were extremely satisfied with the service Lucid Media provided, we were able to increase organic traffic through their SEO Service. We also did a re-design on our website to meet our Restaurant's theme.</p>
                                 <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Finish</li>
-                                    <li>Category: Identity</li>
+                                    <li>Date: June 2019</li>
+                                    <li>Client: Food Fusion Limited</li>
+                                    <li>Category: Food & Hospitality</li>
                                 </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fas fa-times"></i>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"> <i class="fas fa-times"></i>
                                     Close Project</button>
                             </div>
                         </div>
@@ -418,8 +401,6 @@
             </div>
         </div>
     </div>
-
-    <!-- Modal 4 -->
     <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -433,20 +414,15 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">The Funny Baby</h2>
+                                <img class="img-fluid d-block mx-auto" src="img/portfolio/6.jpeg" alt="">
+                                <p>Thanks to Lucid Media I was able to get my business online and operational!</p>
                                 <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Lines</li>
-                                    <li>Category: Branding</li>
+                                    <li>Date: 30 October 2019</li>
+                                    <li>Client: edylee13</li>
+                                    <li>Category: E-Commerce</li>
                                 </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fas fa-times"></i>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"> <i class="fas fa-times"></i>
                                     Close Project</button>
                             </div>
                         </div>
@@ -455,7 +431,6 @@
             </div>
         </div>
     </div>
-
     <!-- Modal 5 -->
     <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -470,20 +445,16 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Central de Productos</h2>
+                                <img class="img-fluid d-block mx-auto" src="img/portfolio/7.jpeg" alt="">
+                                <p>We needed a simple solution to our problem, we were in need of a website that could represent our store accurately, thankfully Lucid Media helped us through the difficult journey or setting up an online business with ease and
+                                    clarity.</p>
                                 <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Southwest</li>
-                                    <li>Category: Website Design</li>
+                                    <li>Date: 07 October 2019</li>
+                                    <li>Client: giorgiomidani</li>
+                                    <li>Category: E-Commerce</li>
                                 </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fas fa-times"></i>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"> <i class="fas fa-times"></i>
                                     Close Project</button>
                             </div>
                         </div>
@@ -492,7 +463,6 @@
             </div>
         </div>
     </div>
-
     <!-- Modal 6 -->
     <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
@@ -507,20 +477,15 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Electric Motorbikes</h2>
+                                <img class="img-fluid d-block mx-auto" src="img/portfolio/8.jpeg" alt="">
+                                <p>Great communication, good work will use Lucid Media again for sure! They helped me create a platform for my clients to purchase our bikes.</p>
                                 <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Window</li>
-                                    <li>Category: Photography</li>
+                                    <li>Date: 21 August 2019</li>
+                                    <li>Client: Carey</li>
+                                    <li>Category: E-Commerce</li>
                                 </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fas fa-times"></i>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"> <i class="fas fa-times"></i>
                                     Close Project</button>
                             </div>
                         </div>
@@ -529,7 +494,6 @@
             </div>
         </div>
     </div>
-
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
