@@ -10,14 +10,10 @@
 
   gtag('config', 'UA-163672473-1');
 </script>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8">
-    <meta name="description"
-        content="Lucid Media is a digital agency based in Auckland, New Zealand, we offer Digital Marketing & SEO services to help increase traffic and optimise engagement. Our team helps design and develop website's for New Zealand businesses to help get their business online.">
-    <meta name="keywords"
-        content="e-commerce websites, wix, shopify, business website, cheap, budget, Lucid, Media, Limited, New, Zealand, Auckland, Digital, Agency, Website, Development, SEO, Social, Media, Marketing, Freelance, Developers, digital marketing agency, digital agency, digital agencies, top digital angencies">
-    <meta name="author" content="Lucid Media">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta property="og:image" content="../img/logos/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="../img/logos/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="../img/logos/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../img/logos/favicon-32x32.png">
@@ -36,3 +32,16 @@
 
     <!-- Custom styles for this template -->
     <link href="../css/agency.min.css" rel="stylesheet">
+        <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/agency.min.js"></script>

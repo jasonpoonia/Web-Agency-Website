@@ -23,8 +23,8 @@ $stmt->bind_result($password, $email);
 $stmt->fetch();
 $stmt->close();
 
-$connect = mysqli_connect("pdb42.awardspace.net", "2747134_orders", "MLG4life", "2747134_orders"); 
-$query = "SELECT * FROM tbl_employee WHERE '" . $_SESSION['email'] . "' = tbl_employee.email ORDER BY tbl_employee.id DESC";  
+$connect = mysqli_connect("pdb42.awardspace.net", "2747134_orders", "MLG4life", "2747134_orders");  
+$query = "SELECT * FROM tbl_employee ORDER BY id DESC";  
 $result = mysqli_query($connect, $query);  
  
 ?>
@@ -39,9 +39,9 @@ $result = mysqli_query($connect, $query);
         ?>
     <link href="profile.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>  
+           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />  
+           <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
 </head>
 
 <body class="loggedin">
@@ -51,9 +51,13 @@ $result = mysqli_query($connect, $query);
     <div class="content">
         <h2 class="section-heading text-uppercase"><i class="fa fa-tachometer-alt"></i> Dashboard</h2>
         <p>Welcome back, <?=$_SESSION['name']?>!</p>
-        <div class="table-responsive">
-            <br />
-            <div id="employee_table">
+            <div class="table-responsive">
+                <div align="right">
+                    <button type="button" name="add" id="add" data-toggle="modal" data-target="#add_data_Modal"
+                        class="btn btn-warning">Add</button>
+                </div>
+                <br />
+                <div id="employee_table">
                 <table class="table table-bordered">
                     <tr>
                         <th width="10%">ORDER ID</th>
@@ -82,8 +86,8 @@ $result = mysqli_query($connect, $query);
                                }  
                                ?>
                 </table>
+                </div>
             </div>
-        </div>
 
 
 </html>
@@ -92,7 +96,6 @@ $result = mysqli_query($connect, $query);
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Employee Details</h4>
             </div>
             <div class="modal-body" id="employee_detail">
             </div>
@@ -107,6 +110,7 @@ $result = mysqli_query($connect, $query);
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">PHP Ajax Update MySQL Data Through Bootstrap Modal</h4>
             </div>
             <div class="modal-body">
                 <form method="post" id="insert_form">

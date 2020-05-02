@@ -139,21 +139,26 @@
                 </div>
             </div>
             <hr class="featurette-divider">
+            <section class="page-section" align="center">
+        <div class="container">
+            <img src="img/stats.jpg" />
+        </div>
+    </section>
         </div>
     </section>
     <section class="bg-light pricing py-3">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3 class="section-heading text-uppercase">Estimate Pricing</h3>
-                    <p class="section-heading text-muted">Contact us to get exact quote for your website!</p>
+                    <h3 class="section-heading text-uppercase">Web Development Pricing</h3>
+                    <p class="section-heading text-muted">Contact us to get an exact quote for your website!</p>
                 </div>
                 <!-- Free Tier -->
                 <div class="col-lg-4">
                     <div class="card mb-5 mb-lg-0">
                         <div class="card-body">
                             <h5 class="card-title text-muted text-uppercase text-center">Standard</h5>
-                            <h6 class="card-price text-center">From $399<span class="period">+GST</span></h6>
+                            <h6 class="card-price text-center">From $599<span class="period">+GST</span></h6>
                             <hr>
                             <ul class="fa-ul">
                                 <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimted Bandwidth</li>
@@ -241,7 +246,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading text-uppercase">Digital Marketing</h2>
-                    <p>Lucid Media offers digital marketing solutions, this includes a range of solutions from creating a marketing strategy for your Social Media accounts, to managing the Social Media accounts and even creating engaging content to further increase your the amount of traffic your business is recieving.
+                    <p>Lucid Media offers digital marketing solutions, this includes a range of solutions from creating a marketing strategy for your Social Media accounts, to managing the Social Media accounts and even creating engaging content to further increase the amount of traffic your business is receiving.
                     </p>
                 </div>
             </div>
@@ -254,7 +259,7 @@
                 <div class="col-md-7">
                     <h4 class="featurette-heading" style="margin-top: 8px;">Supported Social Networks:<span
                             class="text-muted"> Facebook & Instagram</span></h4>
-                    <p>We support both Facebook & Instagram, as we use the social networks in unison, to help promote your business and get it in front of your target audience. As Instagram and Facebook can be used together to do paid promotions, we can take advantage of this feature and further help your business reach the customers that require your goods and services. Every business needs a way to reach it's customers, Digital Marketing is one of the most efficient and cost effective methods available in the 21st Century. </p>
+                    <p>We support both Facebook & Instagram, as we use the social networks in unison, to help promote your business and get it in front of your target audience. As Instagram and Facebook can be used together to do paid promotions, we can take advantage of this feature and further help your business reach the customers that require your goods and services. Every business needs a way to reach its customers, Digital Marketing is one of the most efficient and cost-effective methods available in the 21st Century. </p>
                 </div>
             </div>
             <hr class="featurette-divider">
@@ -264,8 +269,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3 class="section-heading text-uppercase">Estimate Pricing</h3>
-                    <p class="section-heading text-muted">Contact us to get exact quote for your website!</p>
+                    <h3 class="section-heading text-uppercase">Digital Marketing Pricing</h3>
+                    <p class="section-heading text-muted">Contact us to get an exact quote for your website!</p>
                 </div>
                 <!-- Free Tier -->
                 <div class="col-lg-4">
@@ -331,7 +336,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading text-uppercase">SEO</h2>
-                    <p>SEO is an acronym that stands for search engine optimization, which is the process of optimizing your website to get organic, or un-paid, traffic from the search engine results page. Search Engine Optimisation is vital to your business if you want to rank well on Google, increase traffic and drive conversions. </p>
+                    <p>SEO is an acronym that stands for search engine optimization, which is the process of optimise your website to get organic, or unpaid, traffic from the search engine results page. Search Engine optimization is vital to your business if you want to rank well on Google, increase traffic and drive conversions.</p>
                 </div>
             </div>
             <hr class="featurette-divider">
@@ -339,7 +344,7 @@
                 <div class="col-md-7">
                     <h4 class="featurette-heading">Packages: <span class="text-muted">Basic, Advanced, Enterprise</span>
                     </h4>
-                    <p>SEO (Search Engine Optimisation) is an essential part of any website, especially if you are running a business. Ensuring your website is optimised for Search Engines such as Google and Bing will guarantee that you show up infront of your customers verses your competitors. Being on the First page of Google is essential for getting traffic and converting those vistors in to customers. If you need an engaing website that will help convert visitors into customers visit our Web Design section and select a plan that suits your needs. No point having an ecommerce website unless its easily found by your shoppers.</p>
+                    <p>SEO (Search Engine Optimisation) is an essential part of any website, especially if you are running a business. Ensuring your website is optimised for Search Engines such as Google and Bing will guarantee that you show up in front of your customers versus your competitors. Being on the First page of Google is essential for getting traffic and converting those visitors in to customers. If you need an engaging website that will help convert visitors into customers visit our Web Design section and select a plan that suits your needs. No point having an e-commerce website unless its easily found by your shoppers.</p>
                 </div>
                 <div class="col-md-5">
                     <img src="img/about/8.jpg" width="500" height="500"
@@ -353,8 +358,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3 class="section-heading text-uppercase">Estimate Pricing</h3>
-                    <p class="section-heading text-muted">Contact us to get exact quote for your website!</p>
+                    <h3 class="section-heading text-uppercase">SEO Pricing</h3>
+                    <p class="section-heading text-muted">Contact us to get an exact quote for your website!</p>
                 </div>
                 <!-- Free Tier -->
                 <div class="col-lg-4">
@@ -464,20 +469,6 @@
     <?php 
     include('includes/footer.php') 
     ?>
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-    <!-- Contact form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="js/agency.min.js"></script>
 
 </body>
 
